@@ -5,6 +5,7 @@
     margin:5px;
     padding:10px;
     border:2px solid black;
+    position:relative;
     }
 .food{
     margin:0 auto;
