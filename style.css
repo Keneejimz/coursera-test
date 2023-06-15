@@ -48,5 +48,10 @@ h3{
     width:100%;
     clear:left;
    }
+   .container:nth-of-type(2) h2{
+    width:50%;
+   }
    
 }
+
+
