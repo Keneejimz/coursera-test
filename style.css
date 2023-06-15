@@ -12,6 +12,7 @@ h3{
     border:2px solid black;
     position:relative;
     maximum-width:100%
+   box-sizing:border-box;
     }
 
 .food{
